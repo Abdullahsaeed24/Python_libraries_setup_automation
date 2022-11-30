@@ -30,7 +30,8 @@ IsError = None
 # access the batchfile.txt read the setup file Directory
 try:
 
-    Batch_Directory = open('batchfile.txt','r')
+    #Batch_Directory = open('batchfile.txt','r')
+    Batch_Directory = os.getcwd()+"\setup.bat"
     Batch_Directory = Batch_Directory.read()
     print(Batch_Directory)
     IsError = False
