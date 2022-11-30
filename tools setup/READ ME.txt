@@ -34,7 +34,13 @@ the folder consists of the following files
  1. open the batchfile.txt and write the directory of setup.bat directory and save it 
  2. double click on the runscript.bat  "know you are running the script.py to write some commands in setup.py file" 
  
-  2.1 if the script did not run and messege like "python not found" you can run it yourself using python IDE 
- 
+  2.1 if the script did not run and messege like "Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases." in this case 
+      you have to do the following
+	1.Check your Python version and be sure it is installed on your machine
+	2.Check the path environment variable
+	3.Go to -> "start" and type "Manage App Execution Aliases". Go to it and turn off "Python" 		 
+ 	4. add python interpretter path to the environment variables -> system variable -> click on path , choose edit and change it 
+	
+
  3. double click on the setup.bat to automate the setup process 
  
