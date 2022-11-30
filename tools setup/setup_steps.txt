@@ -7,7 +7,7 @@
 
 Pre-Requiests 
 
-* install python version 3.10.4 , please its mandatory 
+* install python version 3.10.4 , please its mandatory , you will find the exe file with this name "python-3.10.4-amd64.exe"
 * please double click on the downloaded file and choose the following 
 * -->install Now and mark on the add to path in the bottom --> after installaion press close 
 
