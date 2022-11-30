@@ -22,6 +22,9 @@ the folder consists of the following files
  4. requirments.txt --> inculdes the libraries names you can open it and add any library 
  5. batchfile.txt --> includes the setup.bat directory
 
+*****************************************************************
+* REMEMBER YOU CAN ADD ANY LIBRARY Name  @ requirments.txt	*			
+*****************************************************************
 
  Now you know the structure of the tools setup folder
  
