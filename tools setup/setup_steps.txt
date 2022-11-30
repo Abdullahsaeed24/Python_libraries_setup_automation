@@ -1,0 +1,33 @@
+
+========================================================================================================================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+******************************************************** this file describe the procedures needed for setup all needed libraries to automate the setup process *********************************************************
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+========================================================================================================================================================================================================================
+
+Pre-Requiests 
+
+* install python version 3.10.4 , please its mandatory 
+* please double click on the downloaded file and choose the following 
+* -->install Now and mark on the add to path in the bottom --> after installaion press close 
+
+
+
+
+the folder consists of the following files 
+
+ 1. runscript.bat --> used to run the script.py automatically 
+ 2. script.py --> the script that write the installation commands into the setup.bat file
+ 3. setup.bat  --> used to setup the libraries automatically 
+ 4. requirments.txt --> inculdes the libraries names you can open it and add any library 
+ 5. batchfile.txt --> includes the setup.bat directory
+
+
+ Now you know the structure of the tools setup folder
+ 
+ please follow the next procedures to automate the setup process 
+ 
+ 1. open the batchfile.txt and write the directory of setup.bat directory and save it 
+ 2. double click on the runscript.bat  "know you are running the script.py to write some commands in setup.py file"
+ 3. double click on the setup.bat to automate the setup process 
+ 
