@@ -116,3 +116,6 @@ if (not IsError ) :
     # close the opend files
     myBat.close()
     requirementsfile.close()
+print("Going to run .bat file.")
+os.system("setup.bat")
+print("Finished running .bat file.")

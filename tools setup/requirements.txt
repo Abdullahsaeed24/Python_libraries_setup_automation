@@ -18,3 +18,8 @@ schedule
 win32gui
 win32con
 time
+--upgrade google-api-python-client
+pymap3d
+pandas
+imageio
+shapely
