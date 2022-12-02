@@ -20,6 +20,10 @@ C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\pip in
 C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\pip install win32con
 C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\pip install time
 C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\pip install --upgrade google-api-python-client
+C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\pip install pymap3d
+C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\pip install pandas
+C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\pip install imageio
+C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\pip install httplib2
@@ -41,6 +45,10 @@ C:\WPy64-31040\python-3.10.4.amd64\python310.zip\pip install win32gui
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\python310.zip\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\python310.zip\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\python310.zip\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\python310.zip\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\pip install httplib2
@@ -62,6 +70,10 @@ C:\WPy64-31040\python-3.10.4.amd64\DLLs\pip install win32gui
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\DLLs\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\DLLs\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\DLLs\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\DLLs\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\lib\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\lib\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\lib\pip install httplib2
@@ -83,6 +95,10 @@ C:\WPy64-31040\python-3.10.4.amd64\lib\pip install win32gui
 C:\WPy64-31040\python-3.10.4.amd64\lib\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\lib\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\lib\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\lib\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\lib\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\lib\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\lib\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\pip install httplib2
@@ -104,6 +120,10 @@ C:\WPy64-31040\python-3.10.4.amd64\pip install win32gui
 C:\WPy64-31040\python-3.10.4.amd64\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\pip install httplib2
@@ -125,6 +145,10 @@ C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\pip install win32gui
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\pip install httplib2
@@ -146,6 +170,10 @@ C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\pip install win32gui
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\pip install httplib2
@@ -167,6 +195,10 @@ C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\pip install win32
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\pip install httplib2
@@ -188,6 +220,10 @@ C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\pip install win32
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\pip install shapely
 C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\scripts\pip install numpy
 C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\scripts\pip install seaborn
 C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\scripts\pip install httplib2
@@ -209,6 +245,10 @@ C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\script
 C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\scripts\pip install win32con
 C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\scripts\pip install time
 C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\scripts\pip install --upgrade google-api-python-client
+C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\scripts\pip install pymap3d
+C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\scripts\pip install pandas
+C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\scripts\pip install imageio
+C:\Users\aismail2\Documents\GitHub\libraries-setup-automation\tools setup\scripts\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\scripts\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\scripts\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\scripts\pip install httplib2
@@ -230,6 +270,10 @@ C:\WPy64-31040\python-3.10.4.amd64\python310.zip\scripts\pip install win32gui
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\scripts\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\scripts\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\python310.zip\scripts\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\python310.zip\scripts\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\python310.zip\scripts\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\python310.zip\scripts\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\python310.zip\scripts\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\scripts\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\scripts\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\scripts\pip install httplib2
@@ -251,6 +295,10 @@ C:\WPy64-31040\python-3.10.4.amd64\DLLs\scripts\pip install win32gui
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\scripts\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\scripts\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\DLLs\scripts\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\DLLs\scripts\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\DLLs\scripts\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\DLLs\scripts\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\DLLs\scripts\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\lib\scripts\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\lib\scripts\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\lib\scripts\pip install httplib2
@@ -272,6 +320,10 @@ C:\WPy64-31040\python-3.10.4.amd64\lib\scripts\pip install win32gui
 C:\WPy64-31040\python-3.10.4.amd64\lib\scripts\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\lib\scripts\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\lib\scripts\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\lib\scripts\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\lib\scripts\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\lib\scripts\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\lib\scripts\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\scripts\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\scripts\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\scripts\pip install httplib2
@@ -293,6 +345,10 @@ C:\WPy64-31040\python-3.10.4.amd64\scripts\pip install win32gui
 C:\WPy64-31040\python-3.10.4.amd64\scripts\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\scripts\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\scripts\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\scripts\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\scripts\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\scripts\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\scripts\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\scripts\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\scripts\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\scripts\pip install httplib2
@@ -314,6 +370,10 @@ C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\scripts\pip install win32gu
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\scripts\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\scripts\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\scripts\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\scripts\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\scripts\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\scripts\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\scripts\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\scripts\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\scripts\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\scripts\pip install httplib2
@@ -335,6 +395,10 @@ C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\scripts\pip install w
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\scripts\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\scripts\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\scripts\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\scripts\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\scripts\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\scripts\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\scripts\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\scripts\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\scripts\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\scripts\pip install httplib2
@@ -356,6 +420,10 @@ C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\scripts\pip insta
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\scripts\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\scripts\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\scripts\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\scripts\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\scripts\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\scripts\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\win32\lib\scripts\pip install shapely
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\scripts\pip install numpy
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\scripts\pip install seaborn
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\scripts\pip install httplib2
@@ -377,4 +445,8 @@ C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\scripts\pip insta
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\scripts\pip install win32con
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\scripts\pip install time
 C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\scripts\pip install --upgrade google-api-python-client
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\scripts\pip install pymap3d
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\scripts\pip install pandas
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\scripts\pip install imageio
+C:\WPy64-31040\python-3.10.4.amd64\lib\site-packages\Pythonwin\scripts\pip install shapely
 pause
